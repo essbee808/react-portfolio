@@ -1,0 +1,6 @@
+.about_container {
+    background: red;
+    display: grid;
+    grid-template-columns: 25% 50%;
+
+}

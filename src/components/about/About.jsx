@@ -23,26 +23,26 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon"/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>10+ years of professional work experience</small>
             </article>
 
             <article className="about_card">
               <MdSchool className="about_icon"/>
               <h5>Education</h5>
-              <small>Flatiron School</small>
+              <small>Relevant courses</small>
             </article>
 
             <article className="about_card">
               <VscFolderLibrary className="about_icon"/>
-              <h5>Projects</h5>
-              <small>Project Title</small>
+              <h5>Technical Projects</h5>
+              <small>3 passion projects</small>
             </article>
             {/* <a href="#contact" className="btn btn-primary">Let's Talk</a> */}
           </div>
           <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste doloribus expedita, exercitationem porro repudiandae dolorem facilis magni labore libero architecto quasi voluptates nostrum veniam. Dolore iure nobis quia dolores sunt nemo eaque autem quas rerum, atque eligendi ex dolorem cum voluptatibus voluptas rem a similique maxime sit voluptatem nostrum officiis?
           </p>
-          <a href="https://calendly.com/sheena-bonilla/" target="_blank">Wanna chat?</a>
+          <a href="https://calendly.com/sheena-bonilla/" target="_blank">I'd love to meet you!</a>
         </div>
         
       </div>

@@ -37,14 +37,14 @@ const About = () => {
               <h5>Projects</h5>
               <small>Project Title</small>
             </article>
-
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, sequi nostrum deleniti aspernatur iure atque doloremque, beatae soluta aperiam culpa aliquam perspiciatis facere inventore, explicabo vel voluptate esse ut? At.
-            </p>
-
             {/* <a href="#contact" className="btn btn-primary">Let's Talk</a> */}
           </div>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste doloribus expedita, exercitationem porro repudiandae dolorem facilis magni labore libero architecto quasi voluptates nostrum veniam. Dolore iure nobis quia dolores sunt nemo eaque autem quas rerum, atque eligendi ex dolorem cum voluptatibus voluptas rem a similique maxime sit voluptatem nostrum officiis?
+          </p>
+          <a href="https://calendly.com/sheena-bonilla/" target="_blank">Wanna chat?</a>
         </div>
+        
       </div>
     </section>
   )

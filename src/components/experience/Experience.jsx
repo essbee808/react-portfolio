@@ -34,23 +34,31 @@ const Experience = () => {
 
           <article className="experience_details">
             <BsPatchCheckFill /> 
-            <h4>React</h4>
+            <h4>ReactJS</h4>
           </article>
 
           <article className="experience_details">
             <BsPatchCheckFill /> 
-            <h4>Redux</h4>
+            <h4>ReduxJS</h4>
           </article>
-          
+      {/* END OF FRONTEND */}
         </div>
         <div className="experience_backend">
           <h3>Backend Development</h3>
           <div className="experience_content"></div>
-          <article className="experience_details"></article>
+          <article className="experience_details">
+            <BsPatchCheckFill /> 
+            <h4>Ruby</h4>
+          </article>
+
+          <article className="experience_details">
+            <BsPatchCheckFill /> 
+            <h4>Ruby on Rails</h4>
+          </article>
         </div>
       </div>
     </section>
   )
 }
 
-export default Experience
+export default Experience 

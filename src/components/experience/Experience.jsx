@@ -12,49 +12,54 @@ const Experience = () => {
         <div className="experience_frontend">
           <h3>Frontend Development</h3>
           <div className="experience_content"></div>
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>HTML</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>HTML</h4>
+            </article>
 
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>CSS</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>CSS</h4>
+            </article>
 
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>JavaScript</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>JavaScript</h4>
+            </article>
 
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>Bootstrap</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>Bootstrap</h4>
+            </article>
 
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>ReactJS</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>ReactJS</h4>
+            </article>
 
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>ReduxJS</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>ReduxJS</h4>
+            </article>
       {/* END OF FRONTEND */}
         </div>
         <div className="experience_backend">
           <h3>Backend Development</h3>
           <div className="experience_content"></div>
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>Ruby</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>Ruby</h4>
+            </article>
 
-          <article className="experience_details">
-            <BsPatchCheckFill /> 
-            <h4>Ruby on Rails</h4>
-          </article>
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>Ruby on Rails</h4>
+            </article>
+
+            <article className="experience_details">
+              <BsPatchCheckFill /> 
+              <h4>Python</h4>
+            </article>
         </div>
       </div>
     </section>

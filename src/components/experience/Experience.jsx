@@ -11,7 +11,7 @@ const Experience = () => {
       <div className="container experience_container">
         <div className="experience_frontend">
           <h3>Frontend Development</h3>
-          <div className="experience_content"></div>
+          <div className="experience_content">
             <article className="experience_details">
               <BsPatchCheckFill /> 
               <h4>HTML</h4>
@@ -41,11 +41,12 @@ const Experience = () => {
               <BsPatchCheckFill /> 
               <h4>Redux.js</h4>
             </article>
+        </div>
       {/* END OF FRONTEND */}
         </div>
         <div className="experience_backend">
           <h3>Backend Development</h3>
-          <div className="experience_content"></div>
+          <div className="experience_content">
             <article className="experience_details">
               <BsPatchCheckFill /> 
               <h4>Ruby</h4>
@@ -60,6 +61,7 @@ const Experience = () => {
               <BsPatchCheckFill /> 
               <h4>PostgreSQL</h4>
             </article>
+          </div>
         </div>
       </div>
     </section>

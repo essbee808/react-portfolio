@@ -14,22 +14,31 @@ const Experience = () => {
           <div className="experience_content">
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>HTML</h4>
+              <div>
+                <h4>HTML</h4>
+              </div>
+              
             </article>
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>CSS</h4>
+              <div>
+                <h4>CSS</h4>
+              </div>
             </article>
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>JavaScript</h4>
+              <div>
+                <h4>JavaScript</h4>
+              </div>
             </article>
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>Bootstrap</h4>
+              <div>
+                <h4>Bootstrap</h4>
+              </div>
             </article>
 
             <article className="experience_details">
@@ -49,17 +58,23 @@ const Experience = () => {
           <div className="experience_content">
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>Ruby</h4>
+              <div>
+                <h4>Ruby</h4>
+              </div>
             </article>
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>Ruby on Rails</h4>
+              <div>
+                <h4>Ruby on Rails</h4>
+              </div>
             </article>
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>PostgreSQL</h4>
+              <div>
+                <h4>PostgreSQL</h4>
+              </div>
             </article>
           </div>
         </div>

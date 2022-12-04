@@ -34,12 +34,12 @@ const Experience = () => {
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>ReactJS</h4>
+              <h4>React.js</h4>
             </article>
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>ReduxJS</h4>
+              <h4>Redux.js</h4>
             </article>
       {/* END OF FRONTEND */}
         </div>
@@ -58,7 +58,7 @@ const Experience = () => {
 
             <article className="experience_details">
               <BsPatchCheckFill /> 
-              <h4>Python</h4>
+              <h4>PostgreSQL</h4>
             </article>
         </div>
       </div>

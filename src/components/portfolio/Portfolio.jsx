@@ -12,22 +12,22 @@ const Portfolio = () => {
       <div className="container portfolio_container">
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img src={IMG1} alt="Portfolio Image" />
+            <img src={IMG1} alt="" />
           </div>
           <h3>Looking For</h3>
-          <p>Social care platform equipped with search and bookmarking tools, optimizing access to community resources.</p>
-          <a href="https://github.com/essbee808/looking-for" target="_blank" className="btn btn-primary">GitHub</a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com/essbee808/looking-for" target="_blank" className="btn btn-primary">GitHub</a>
+          </div>
         </article>
 
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img src={IMG2} alt="Image" />
+            <img src={IMG2} alt="" />
           </div>
           <h3>CaliGolf</h3>
-          <p>Single page web application (SPA) created using Rails as an API on the backend and JavaScript to handle the client-side.
-            This app was designed for golf enthusiasts/hobbyists who are looking for local courses in California.
-          </p>
-          <a href="https://github.com/essbee808/cali-golf-api" target="_blank" className="btn btn-primary">GitHub</a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com/essbee808/cali-golf-api" target="_blank" className="btn btn-primary">GitHub</a>
+          </div>
         </article>
       </div>
     </section>

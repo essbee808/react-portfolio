@@ -1,4 +1,5 @@
 import React from 'react'
+import './portfolio.css';
 import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 
@@ -15,7 +16,7 @@ const Portfolio = () => {
           </div>
           <h3>Looking For</h3>
           <p>Social care platform equipped with search and bookmarking tools, optimizing access to community resources.</p>
-          <a href="https://github.com/essbee808/looking-for" target="_blank" className="btn">GitHub</a>
+          <a href="https://github.com/essbee808/looking-for" target="_blank" className="btn btn-primary">GitHub</a>
         </article>
 
         <article className="portfolio_item">
@@ -26,7 +27,7 @@ const Portfolio = () => {
           <p>Single page web application (SPA) created using Rails as an API on the backend and JavaScript to handle the client-side.
             This app was designed for golf enthusiasts/hobbyists who are looking for local courses in California.
           </p>
-          <a href="https://github.com/essbee808/cali-golf-api" target="_blank" className="btn">GitHub</a>
+          <a href="https://github.com/essbee808/cali-golf-api" target="_blank" className="btn btn-primary">GitHub</a>
         </article>
       </div>
     </section>

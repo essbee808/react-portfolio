@@ -2,8 +2,19 @@ import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {TfiCalendar} from 'react-icons/tfi'
+import { useRef } from 'react'; 
+import emailjs from 'emailjs-com'
+
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY')
+  };
+
   return (
     <section id="contact">
       <h5>Get In Touch</h5>

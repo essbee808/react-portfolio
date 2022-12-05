@@ -14,14 +14,12 @@ const Contact = () => {
           <article className="contact_option">
             <MdOutlineEmail className="contact_option-icon"/>
             <h4>Email</h4>
-            <h5>sheena.myb@gmail.com</h5>
             <a href="mailto:sheena.myb@gmail.com" target="_blank">Send a message</a>
           </article>
 
           <article className="contact_option">
             <TfiCalendar className="contact_option-icon"/>
             <h4>Calendly</h4>
-            <h5>sheena.myb@gmail.com</h5>
             <a href="https://calendly.com/sheena-bonilla" target="_blank">Schedule a call</a>
           </article>
         </div>

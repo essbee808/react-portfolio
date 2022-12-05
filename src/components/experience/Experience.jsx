@@ -13,40 +13,40 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience_content">
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <div>
                 <h4>HTML</h4>
               </div>
             </article>
 
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <div>
                 <h4>CSS</h4>
               </div>
             </article>
 
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <div>
                 <h4>JavaScript</h4>
               </div>
             </article>
 
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <div>
                 <h4>Bootstrap</h4>
               </div>
             </article>
 
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <h4>React.js</h4>
             </article>
 
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <h4>Redux.js</h4>
             </article>
         </div>
@@ -56,21 +56,21 @@ const Experience = () => {
           <h3>Backend Development</h3>
           <div className="experience_content">
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <div>
                 <h4>Ruby</h4>
               </div>
             </article>
 
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <div>
                 <h4>Ruby on Rails</h4>
               </div>
             </article>
 
             <article className="experience_details">
-              <BsPatchCheckFill class="experience_details-icon"/> 
+              <BsPatchCheckFill className="experience_details-icon"/> 
               <div>
                 <h4>PostgreSQL</h4>
               </div>

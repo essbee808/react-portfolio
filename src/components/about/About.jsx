@@ -40,8 +40,11 @@ const About = () => {
             </article>
             {/* <a href="#contact" className="btn btn-primary">Let's Talk</a> */}
           </div>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste doloribus expedita, exercitationem porro repudiandae dolorem facilis magni labore libero architecto quasi voluptates nostrum veniam. Dolore iure nobis quia dolores sunt nemo eaque autem quas rerum, atque eligendi ex dolorem cum voluptatibus voluptas rem a similique maxime sit voluptatem nostrum officiis?
+          </p> */}
+          <p>
+            Aloha! My name is Sheena.
           </p>
           <a href="https://calendly.com/sheena-bonilla/" target="_blank">I'd love to meet you!</a>
         </div>

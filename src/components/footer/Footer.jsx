@@ -2,11 +2,15 @@ import React from 'react'
 import './footer.css'
 import {FiInstagram} from 'react-icons/fi'
 import {FiTwitter} from 'react-icons/fi'
+import Logo from '../../assets/bonilla_logo.png'
 
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer_logo'>SHEENA</a>
+      {/* <img src={Logo} alt="Logo" className="footer_logo"/> */}
+      <a href="#" className='footer_logo'>
+        <img src={Logo} alt="Logo" />
+      </a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>

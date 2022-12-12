@@ -42,7 +42,7 @@ const About = () => {
           </div>
           <p>
             Aloha! I'm Sheena, a full-stack software developer based out of Los Angeles, CA. 
-            Naturally Curious. Creative Thinker.
+            Naturally Curious. Creative Thinker. Animal Lover.
           </p>
           <a href="https://calendly.com/sheena-bonilla/" target="_blank">I'd love to meet you!</a>
         </div>

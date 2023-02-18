@@ -40,12 +40,11 @@ const Portfolio = () => {
             return (
             <article key={id} className="portfolio_item">
               <div className="portfolio_item-image">
-                <img src={image} alt={title} />
+                <a href={link} target="_blank"><img src={image} alt={title} /></a>
               </div>
               <h3>{title}</h3>
               <div className="portfolio_item-cta">
                 <a href={github} target="_blank" className="btn btn-primary">GitHub</a>
-                <a href={link} target="_blank" className="btn btn-primary">Link</a>
               </div>
             </article>
           )

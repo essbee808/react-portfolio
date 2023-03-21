@@ -11,7 +11,7 @@ const data = [
     image: IMG1,
     title: 'Live The Aloha Way',
     github: 'https://github.com/essbee808/live-the-aloha-way-frontend',
-    link: 'https://livethealohaway.netlify.app/'
+    link: 'https://livethealohaway.com/'
   },
   {
       id: 2,
